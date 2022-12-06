@@ -1,5 +1,11 @@
-----------------------------------------------------------spring-security-KC------------------------------------------------------------------------------
+----------------------------------------------------------spring-security-KC----------------------------------------------------------------------------
+
+
+
+
+
 Keycloak Admin console
+
 
 ![keycklock1](https://user-images.githubusercontent.com/75700746/206045554-5c1cd989-333c-4fd1-b41d-cb068e292102.PNG)
 
@@ -31,6 +37,14 @@ Test du token with JWT
 Home application
 
 ![apphome](https://user-images.githubusercontent.com/75700746/206047031-4d34c015-b882-4d12-a497-bc39a5ff5957.PNG)
+
+keycloak security
+
+![image](https://user-images.githubusercontent.com/75700746/206047474-4468496b-3589-465a-9910-d2c4210dfc1e.png)
+
+affichage des produits :
+
+![image](https://user-images.githubusercontent.com/75700746/206047696-95922ec5-3247-42f3-bff9-8bc5ec0531ca.png)
 
 
 
